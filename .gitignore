@@ -1,0 +1,18 @@
+# Byte-compiled / cache files
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environment
+.venv/
+
+# Environment variables
+.env
+
+# IDE and editor folders
+.vscode/
+.idea/
+*.swp
+
+# macOS metadata
+.DS_Store

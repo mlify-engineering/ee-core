@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+apscheduler
+azure-storage-blob
+python-dotenv
+aiohttp
