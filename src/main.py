@@ -3,11 +3,12 @@ from apscheduler.schedulers.background import BackgroundScheduler
 from azure.core.exceptions import ResourceExistsError
 from azure.storage.blob import BlobServiceClient
 from dotenv import load_dotenv
+from pathlib import Path
+from pytz import timezone
 import aiohttp
 import asyncio
-import subprocess
-from pathlib import Path
 import os
+import subprocess
 
 # Load .env
 load_dotenv()
@@ -82,8 +83,13 @@ async def orchestrate():
 
 @app.on_event("startup")
 def schedule_cron_job():
-    scheduler.add_job(lambda: asyncio.run(orchestrate()), trigger="cron", hour=3, minute=0)  # Run daily at 3 AM
-
+    scheduler.add_job(
+        lambda: asyncio.run(orchestrate()),
+        trigger="cron",
+        hour=17,
+        minute=0,
+        timezone=timezone("America/Toronto")  # Ottawa timezone
+    )
 @app.get("/run-now")
 async def manual_trigger():
     await orchestrate()
