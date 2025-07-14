@@ -282,7 +282,7 @@
     ],
     "type": "scatter",
     "mode": "lines+markers",
-    "name": "CRS Range: 0-300"
+    "name": "Crs Range: 0-300"
   },
   "CRS Range: 301-350": {
     "x": [
@@ -567,7 +567,7 @@
     ],
     "type": "scatter",
     "mode": "lines+markers",
-    "name": "CRS Range: 301-350"
+    "name": "Crs Range: 301-350"
   },
   "CRS Range: 351-400": {
     "x": [
@@ -852,7 +852,7 @@
     ],
     "type": "scatter",
     "mode": "lines+markers",
-    "name": "CRS Range: 351-400"
+    "name": "Crs Range: 351-400"
   },
   "CRS Range: 401-410": {
     "x": [
@@ -1137,7 +1137,7 @@
     ],
     "type": "scatter",
     "mode": "lines+markers",
-    "name": "CRS Range: 401-410"
+    "name": "Crs Range: 401-410"
   },
   "CRS Range: 401-450": {
     "x": [
@@ -1422,7 +1422,7 @@
     ],
     "type": "scatter",
     "mode": "lines+markers",
-    "name": "CRS Range: 401-450"
+    "name": "Crs Range: 401-450"
   },
   "CRS Range: 411-420": {
     "x": [
@@ -1707,7 +1707,7 @@
     ],
     "type": "scatter",
     "mode": "lines+markers",
-    "name": "CRS Range: 411-420"
+    "name": "Crs Range: 411-420"
   },
   "CRS Range: 421-430": {
     "x": [
@@ -1992,7 +1992,7 @@
     ],
     "type": "scatter",
     "mode": "lines+markers",
-    "name": "CRS Range: 421-430"
+    "name": "Crs Range: 421-430"
   },
   "CRS Range: 431-440": {
     "x": [
@@ -2277,7 +2277,7 @@
     ],
     "type": "scatter",
     "mode": "lines+markers",
-    "name": "CRS Range: 431-440"
+    "name": "Crs Range: 431-440"
   },
   "CRS Range: 441-450": {
     "x": [
@@ -2562,7 +2562,7 @@
     ],
     "type": "scatter",
     "mode": "lines+markers",
-    "name": "CRS Range: 441-450"
+    "name": "Crs Range: 441-450"
   },
   "CRS Range: 451-460": {
     "x": [
@@ -2847,7 +2847,7 @@
     ],
     "type": "scatter",
     "mode": "lines+markers",
-    "name": "CRS Range: 451-460"
+    "name": "Crs Range: 451-460"
   },
   "CRS Range: 451-500": {
     "x": [
@@ -3132,7 +3132,7 @@
     ],
     "type": "scatter",
     "mode": "lines+markers",
-    "name": "CRS Range: 451-500"
+    "name": "Crs Range: 451-500"
   },
   "CRS Range: 461-470": {
     "x": [
@@ -3417,7 +3417,7 @@
     ],
     "type": "scatter",
     "mode": "lines+markers",
-    "name": "CRS Range: 461-470"
+    "name": "Crs Range: 461-470"
   },
   "CRS Range: 471-480": {
     "x": [
@@ -3702,7 +3702,7 @@
     ],
     "type": "scatter",
     "mode": "lines+markers",
-    "name": "CRS Range: 471-480"
+    "name": "Crs Range: 471-480"
   },
   "CRS Range: 481-490": {
     "x": [
@@ -3987,7 +3987,7 @@
     ],
     "type": "scatter",
     "mode": "lines+markers",
-    "name": "CRS Range: 481-490"
+    "name": "Crs Range: 481-490"
   },
   "CRS Range: 491-500": {
     "x": [
@@ -4272,7 +4272,7 @@
     ],
     "type": "scatter",
     "mode": "lines+markers",
-    "name": "CRS Range: 491-500"
+    "name": "Crs Range: 491-500"
   },
   "CRS Range: 501-600": {
     "x": [
@@ -4557,7 +4557,7 @@
     ],
     "type": "scatter",
     "mode": "lines+markers",
-    "name": "CRS Range: 501-600"
+    "name": "Crs Range: 501-600"
   },
   "CRS Range: 601-1200": {
     "x": [
@@ -4842,6 +4842,6 @@
     ],
     "type": "scatter",
     "mode": "lines+markers",
-    "name": "CRS Range: 601-1200"
+    "name": "Crs Range: 601-1200"
   }
 }

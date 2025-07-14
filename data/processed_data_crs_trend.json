@@ -12,7 +12,7 @@
     ],
     "type": "scatter",
     "mode": "lines+markers",
-    "name": "Agriculture and agri-food occupations"
+    "name": "Agriculture And Agri-Food Occupations"
   },
   "Canadian Experience Class": {
     "x": [
@@ -122,7 +122,7 @@
     ],
     "type": "scatter",
     "mode": "lines+markers",
-    "name": "Education occupations"
+    "name": "Education Occupations"
   },
   "Federal Skilled Trades": {
     "x": [
@@ -205,7 +205,7 @@
     ],
     "type": "scatter",
     "mode": "lines+markers",
-    "name": "French language proficiency"
+    "name": "French Language Proficiency"
   },
   "General": {
     "x": [
@@ -249,7 +249,7 @@
     ],
     "type": "scatter",
     "mode": "lines+markers",
-    "name": "Healthcare and social services occupations"
+    "name": "Healthcare And Social Services Occupations"
   },
   "Healthcare occupations": {
     "x": [
@@ -270,7 +270,7 @@
     ],
     "type": "scatter",
     "mode": "lines+markers",
-    "name": "Healthcare occupations"
+    "name": "Healthcare Occupations"
   },
   "No Program Specified": {
     "x": [
@@ -803,7 +803,7 @@
     ],
     "type": "scatter",
     "mode": "lines+markers",
-    "name": "STEM occupations"
+    "name": "Stem Occupations"
   },
   "Trade occupations": {
     "x": [
@@ -820,7 +820,7 @@
     ],
     "type": "scatter",
     "mode": "lines+markers",
-    "name": "Trade occupations"
+    "name": "Trade Occupations"
   },
   "Transport occupations": {
     "x": [
@@ -835,6 +835,6 @@
     ],
     "type": "scatter",
     "mode": "lines+markers",
-    "name": "Transport occupations"
+    "name": "Transport Occupations"
   }
 }

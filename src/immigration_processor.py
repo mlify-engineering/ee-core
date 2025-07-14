@@ -200,7 +200,7 @@ class ImmigrationDataProcessor:
                             'y': [],
                             'type': 'scatter',
                             'mode': 'lines+markers',
-                            'name': extracted_draw_name
+                            'name': extracted_draw_name.title()
                         }
                     
                     batch_data[extracted_draw_name]['x'].append(draw_date)
@@ -275,7 +275,7 @@ class ImmigrationDataProcessor:
                                 'y': [],
                                 'type': 'scatter',
                                 'mode': 'lines+markers',
-                                'name': pool_name
+                                'name': pool_name.title()
                             }
                         
                         batch_data[pool_name]['x'].append(draw_date)
